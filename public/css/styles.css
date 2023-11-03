@@ -1,0 +1,47 @@
+#general
+{
+    background-color: hotpink;
+    text-align: center;
+    width: 450px;
+    margin-left: 500px;
+    height: 350px;
+    padding-top: 35px;
+    border-radius: 20px;
+    color: #fff;
+
+}
+.largeur
+{
+    height: 25px;
+  width: 250px; 
+}
+#en-tete
+{
+    height: 75px;
+    background-color: blueviolet;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+#phone
+{
+    width: 250px; 
+    height: 25px;
+
+}
+#fav
+{
+    width: 250px;
+    height: 30px;
+ 
+}
+.inscription
+{
+    background-color: blueviolet;
+    color: #fff;
+    width:175px;
+    border-radius: 5px;
+    height: 35px;
+
+}
